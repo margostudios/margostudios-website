@@ -7,8 +7,8 @@
   --color-bg-alt: #f8f9fa;
   --color-text: #1a1a2e;
   --color-text-muted: #555;
-  --color-accent: #4a7c8f;
-  --color-accent-hover: #3d6878;
+  --color-accent: #6CA7A8;
+  --color-accent-hover: #5a9192;
   --color-border: #e5e7eb;
   --color-footer: #1a1a2e;
   --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -132,7 +132,7 @@ a:hover {
    Hero
    ======================================== */
 .hero {
-  background: var(--color-bg-alt);
+  background: linear-gradient(180deg, #ffffff 0%, #f3f8f8 100%);
   padding: 80px 24px;
   text-align: center;
 }
@@ -229,6 +229,16 @@ a:hover {
   line-height: 1.6;
 }
 
+/* Section divider */
+.section-divider {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--color-accent), transparent);
+  max-width: 120px;
+  margin: 56px auto 0;
+  opacity: 0.5;
+}
+
 /* Product spotlight card */
 .product-card {
   max-width: 560px;
@@ -240,10 +250,20 @@ a:hover {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 12px;
+  color: var(--color-accent);
 }
 
 .product-card p {
   margin-bottom: 24px;
+}
+
+/* Human touch */
+.human-touch {
+  text-align: center;
+  padding: 0 24px 80px;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  font-style: italic;
 }
 
 /* ========================================
@@ -258,6 +278,7 @@ a:hover {
   font-weight: 700;
   margin-bottom: 32px;
   text-align: center;
+  color: var(--color-accent);
 }
 
 .feature-grid {
