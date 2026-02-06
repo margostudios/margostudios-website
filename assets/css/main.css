@@ -7,8 +7,8 @@
   --color-bg-alt: #f8f9fa;
   --color-text: #1a1a2e;
   --color-text-muted: #555;
-  --color-accent: #6CA7A8;
-  --color-accent-hover: #5a9192;
+  --color-accent: #2a7d8c;
+  --color-accent-hover: #236b78;
   --color-border: #e5e7eb;
   --color-footer: #1a1a2e;
   --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -132,7 +132,7 @@ a:hover {
    Hero
    ======================================== */
 .hero {
-  background: linear-gradient(180deg, #ffffff 0%, #f3f8f8 100%);
+  background: linear-gradient(180deg, #e8f3f3 0%, #d5e8e8 100%);
   padding: 80px 24px;
   text-align: center;
 }
