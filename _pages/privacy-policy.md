@@ -8,115 +8,103 @@ permalink: /privacy-policy/
 
 ## 1. Information We Collect
 
-### Personal Information
+### No Data Collection
+- **Local Storage Only:** We do not collect, store, or transmit any of your personal data
+- **Offline First:** All your information remains on your device
+- **No Analytics:** We don't track how you use the app
+- **No Marketing:** We don't collect data for advertising or marketing purposes
+
+### What You Store Locally
 - **Family Member Data:** Names, ages, relationships, passport expiration dates
 - **Trip Information:** Destinations, dates, travel details
 - **Packing Lists:** Items you need to pack, quantities, categories
 - **Documents:** Photos, PDFs, travel documents you upload
 - **Preferences:** Settings and app customization choices
 
-### Device Information
-- **Device Type:** iOS/Android device information
-- **App Version:** Version and build number
-- **Usage Analytics:** How you use the app features (anonymized)
-
-### Location Data
-- **Optional:** Location access is optional and only used with your explicit consent
-- **Purpose:** To enhance travel planning with location-based suggestions
-- **Storage:** Location data is processed locally and not stored long-term
-
 ## 2. How We Use Your Information
 
-### Core Functionality
-- **Trip Planning:** Create and manage family travel itineraries
-- **Packing Lists:** Generate personalized packing recommendations
-- **Document Storage:** Securely store travel documents and photos
-- **Family Profiles:** Manage family member information for travel planning
+### Local Processing Only
+- **Trip Planning:** All trip planning happens entirely on your device
+- **Packing Lists:** Generated locally based on your family's needs
+- **Document Storage:** Stored securely on your device only
+- **Family Profiles:** Managed locally without any data transmission
 
-### Analytics & Improvement
-- **Anonymous Usage Data:** To improve app features and user experience
-- **Crash Reports:** Technical information to fix bugs and improve stability
-- **Feature Usage:** To understand which features are most valuable
-
-### Communication
-- **App Updates:** To notify you about new features and bug fixes
-- **Support:** To respond to your support requests and feedback
+### No External Use
+- **No Analytics:** We don't analyze your usage patterns
+- **No Marketing:** We don't use your data for advertising
+- **No Sharing:** We don't share your data with third parties
+- **No Profiling:** We don't create profiles about you or your family
 
 ## 3. Data Storage & Security
 
-### Local Storage
-- **Primary Storage:** All personal data is stored locally on your device
-- **Encryption:** Sensitive data is encrypted on device storage
-- **Cloud Backup:** Optional cloud backup to your personal iCloud/Google Drive
+### Local Storage Only
+- **Device Storage:** All data is stored exclusively on your device
+- **No Cloud Servers:** We don't have servers storing your personal information
+- **No Data Transmission:** Your data never leaves your device
+- **Full Control:** You have complete control over your data at all times
 
-### Data Sharing
-- **Third Parties:** We only share data with third parties when necessary for:
-  - **App Store/Play Store:** For app distribution and updates
-  - **Cloud Services:** When you explicitly choose to backup to iCloud/Google Drive
-  - **Analytics Services:** Anonymous usage data for app improvement
-
-### Data Retention
-- **User Data:** Retained until you delete the app or your account
-- **Analytics Data:** Retained for 12 months in anonymized form
-- **Backup Data:** Retained according to your cloud provider's policies
+### Security Measures
+- **Device Encryption:** Protected by your device's built-in encryption
+- **App-Level Security:** Additional encryption for sensitive data within the app
+- **No Network Access:** The app doesn't require internet for core functionality
+- **Privacy by Design:** Built from the ground up to protect your privacy
 
 ## 4. Your Rights & Choices
 
-### Access & Control
-- **View Data:** Access all personal data we've collected about you
-- **Export Data:** Export your trips, packing lists, and family profiles
-- **Delete Data:** Delete your account and all associated data
-- **Opt Out:** Disable analytics and data collection in settings
+### Complete Data Control
+- **Total Ownership:** Your data belongs to you and never leaves your device
+- **No Account Needed:** Use the app without creating an account with us
+- **Delete Anytime:** Remove the app to delete all your data instantly
+- **Export Options:** Export your data for personal backup or migration
 
-### Data Portability
-- **Export Format:** Download your data in standard formats (JSON, CSV)
-- **Transfer:** Move your data to other services or apps
-- **Backup:** Create local backups of all your travel data
-
-### Consent Management
-- **Withdraw Consent:** Change your mind about data collection at any time
-- **Location Control:** Enable/disable location access in device settings
-- **Marketing Opt-Out:** Choose not to receive promotional communications
+### Privacy Guarantees
+- **No Tracking:** We don't track your app usage or behavior
+- **No Profiling:** We don't build profiles about you or your family
+- **No Data Sharing:** We never share your data with anyone
+- **No Surveillance:** We don't monitor or analyze your activities
 
 ## 5. Children's Privacy
 
-### Age-Appropriate Protection
-- **No Targeted Marketing:** We don't market to children under 13
-- **Limited Data Collection:** Minimal data collection for child users
-- **Parental Control:** Parents can manage and delete children's data
+### Maximum Protection for Children
+- **No Data Collection:** We don't collect any data from children
+- **No Accounts Required:** Children can use the app without any data collection
+- **Parental Control:** Parents have complete control over all family data
+- **Safe by Design:** Built to protect children's privacy from the ground up
 
 ### Educational Use
-- **School Projects:** Data may be used for educational travel planning activities
-- **Age Verification:** We take reasonable steps to verify user age when required
+- **Offline Learning:** All educational features work completely offline
+- **No Tracking:** We don't track children's learning progress or behavior
+- **Family Privacy:** All family travel planning remains private
 
 ## 6. Data Security
 
-### Protection Measures
-- **Encryption:** Data encrypted in transit and at rest
-- **Access Controls:** Secure authentication and authorization systems
-- **Regular Updates:** Security patches and vulnerability fixes
-- **Monitoring:** Continuous security monitoring and threat detection
+### Local Security Measures
+- **Device Encryption:** Protected by your device's built-in encryption
+- **App-Level Encryption:** Additional encryption for sensitive data within the app
+- **No Network Vulnerabilities:** No data transmission means no network-based security risks
+- **Regular Updates:** Security updates to protect your device locally
 
-### Breach Notification
-- **Prompt Notification:** We'll notify you within 72 hours of any data breach
-- **Clear Information:** Details about what data was affected and what we're doing
-- **Support:** Guidance on how to protect yourself after a breach
+### No Breach Risk
+- **No Servers to Hack:** Since we don't store your data, there's nothing to breach
+- **No Data Transmission:** Your data never travels over networks
+- **Local Only:** Security is focused on protecting your device, not remote servers
+- **Your Control:** You control physical and digital access to your data
 
 ## 7. International Data Transfers
 
-### Global Service
-- **Data Processing:** Your data may be processed in countries where we operate
-- **Legal Compliance:** We follow applicable data protection laws
-- **Standard Clauses:** EU Standard Contractual Clauses for international transfers
-- **Your Rights:** Your privacy rights regardless of your location
+### No International Transfers
+- **Local Only:** Your data never leaves your device, so there are no international transfers
+- **No Cross-Border Storage:** We don't store data in any country
+- **No Legal Compliance Needed:** Since we don't collect or store data, international data laws don't apply
+- **Universal Privacy:** Your privacy rights are the same regardless of your location
 
 ## 8. Changes to This Policy
 
-### Updates
-- **Notification:** We'll notify you of significant privacy policy changes
-- **Effective Date:** New policies take effect on the stated effective date
-- **Review Period:** 30 days to review and provide feedback on changes
-- **Continued Use:** Continued use means acceptance of updated policy
+### Policy Stability
+- **Simple Policy:** Our privacy policy is simple because we don't collect data
+- **Rare Changes:** We rarely need to update this policy
+- **Clear Communication:** Any changes will be clearly communicated
+- **Backward Compatibility:** We'll never start collecting data without your explicit consent
 
 ### Contact for Privacy Questions
 - **Email:** privacy@margostudios.com
@@ -130,13 +118,14 @@ permalink: /privacy-policy/
 - **Website:** https://margostudios.com
 - **App Support:** Through the app's help/support features
 
-### Regulatory Compliance
-- **GDPR Representative:** Available for EU users' data protection rights
-- **Data Protection Officer:** dpo@margostudios.com
-- **Legal Address:** Available upon request for legal proceedings
+### Simple Privacy Commitment
+- **No Data Collection:** We're committed to never collecting your personal data
+- **Local First:** Your privacy is protected by keeping everything local
+- **Transparent:** We're always clear about our privacy practices
+- **User Focused:** Your trust and privacy are our top priorities
 
 ---
 
 **This privacy policy is effective as of February 5, 2026 and may be updated.**
 
-*Family Travel by Margo Studios is committed to protecting your privacy and ensuring transparent data practices. We believe travel planning should be personal, secure, and focused on creating amazing family memories.*
+*Family Travel by Margo Studios is committed to protecting your privacy by never collecting your personal data. We believe travel planning should be completely private, secure, and focused on creating amazing family memories without surveillance.*
