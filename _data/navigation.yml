@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "FamGo"
+    url: /famgotravel/
+  - title: "Privacy Policy"
+    url: /privacy-policy/

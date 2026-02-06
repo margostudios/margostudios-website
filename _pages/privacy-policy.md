@@ -1,4 +1,8 @@
-# Privacy Policy - Family Travel App
+---
+layout: single
+title: "Privacy Policy - Family Travel App"
+permalink: /privacy-policy/
+---
 
 **Effective Date:** February 5, 2026
 
