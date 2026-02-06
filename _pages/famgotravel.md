@@ -1,36 +1,56 @@
 ---
-layout: splash
-title: "FamGo - Your Complete Trip Planning Companion"
+layout: page
+title: "FamGo Travel"
+subtitle: "Your complete trip planning companion — designed to reduce travel stress for families."
 permalink: /famgotravel/
-header:
-  overlay_color: "#2a7d8c"
-  overlay_filter: "linear-gradient(135deg, #2a7d8c 0%, #1e5a6b 100%)"
-  actions:
-    - label: "Download on App Store"
-      url: "https://apps.apple.com/app/family-travel/id123456789"
-    - label: "Get it on Google Play"
-      url: "https://play.google.com/store/apps/details?id=com.famgo.trip"
-excerpt: "Plan amazing family trips with intelligent packing lists, travel documents, and itinerary management. Perfect for families with kids of all ages."
-
-feature_row:
-  - title: "Smart Packing Lists"
-    excerpt: "Age-appropriate packing recommendations for babies, toddlers, kids, and adults. Never forget essentials again!"
-  - title: "Family Profiles"
-    excerpt: "Manage family members, passport dates, and special needs for stress-free travel planning."
-
-feature_row2:
-  - title: "Travel Documents"
-    excerpt: "Store passports, itineraries, and important documents securely in one place."
-  - title: "Day Bags"
-    excerpt: "Organized packing by person with smart day bag generation for the whole family."
-
-feature_row3:
-  - title: "About Margo Studios"
-    excerpt: "We create thoughtful travel apps that help families create amazing memories together. FamGo is designed to reduce travel stress and increase family adventure time.<br><br>**Contact:** hello@margostudios.com"
+hero: true
+wide: true
 ---
 
-{% include feature_row %}
+<div class="feature-section">
+  <h2>Plan with confidence</h2>
+  <div class="feature-grid">
+    <div class="card">
+      <h3>Smart Packing Lists</h3>
+      <p>Age-appropriate packing recommendations for babies, toddlers, kids, and adults. Never forget essentials again.</p>
+    </div>
+    <div class="card">
+      <h3>Day Bags</h3>
+      <p>Organized packing by person with smart day bag generation for the whole family.</p>
+    </div>
+  </div>
+</div>
 
-{% include feature_row id="feature_row2" %}
+<div class="feature-section">
+  <h2>Stay organized</h2>
+  <div class="feature-grid">
+    <div class="card">
+      <h3>Family Profiles</h3>
+      <p>Manage family members, passport dates, and special needs for stress-free travel planning.</p>
+    </div>
+    <div class="card">
+      <h3>Travel Documents</h3>
+      <p>Store passports, itineraries, and important documents securely in one place.</p>
+    </div>
+  </div>
+</div>
 
-{% include feature_row id="feature_row3" type="center" %}
+<div class="feature-section">
+  <h2>Keep it safe</h2>
+  <div class="feature-grid">
+    <div class="card">
+      <h3>Cloud Backup</h3>
+      <p>Keep your trip data safe with optional cloud backup to iCloud or Google Drive.</p>
+    </div>
+    <div class="card">
+      <h3>Privacy First</h3>
+      <p>All personal data is stored locally on your device. Cloud backup is always optional and in your control.</p>
+    </div>
+  </div>
+</div>
+
+<div class="cta-section">
+  <h2>Ready to simplify your next trip?</h2>
+  <p>Start planning for free — upgrade when it makes sense.</p>
+  <a href="/pricing/" class="btn btn-primary">See Pricing</a>
+</div>

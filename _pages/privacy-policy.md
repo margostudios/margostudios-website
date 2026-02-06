@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Privacy Policy - Family Travel App"
+layout: page
+title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
 

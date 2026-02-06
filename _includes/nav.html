@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="container nav-container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">Margo Studios</a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+    <nav class="site-nav">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}" class="nav-link{% if page.url == link.url %} active{% endif %}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
