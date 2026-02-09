@@ -22,7 +22,7 @@ wide: true
   </div>
   <div class="pricing-card featured">
     <h3>Premium</h3>
-    <div class="price">$4.99</div>
+    <div class="price">$9.99</div>
     <div class="price-period">per month<br>or $59/year</div>
     <ul>
       <li>Unlimited trips</li>
