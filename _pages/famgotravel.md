@@ -12,7 +12,7 @@ wide: true
   <div class="feature-grid">
     <div class="card">
       <h3>Trip Preparation</h3>
-      <p>Upon creating a trip, tasks are automatically generated specific to your family makeup. Plus get organized shopping lists for everything you need to pack.</p>
+      <p>Upon creating a trip, tasks are automatically generated specific to your family makeup.</p>
     </div>
     <div class="card">
       <h3>Family Profiles</h3>
