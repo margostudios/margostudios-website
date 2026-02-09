@@ -16,8 +16,8 @@ This website is hosted on GitHub Pages and serves as the landing page for our mo
 - **Responsive Design**: Mobile-first approach
 
 ## Contact
-- **Email**: hello@margostudios.com
-- **Privacy**: privacy@margostudios.com
+- **Email**: help@margostudios.com
+- **Privacy**: help@margostudios.com
 
 ---
 

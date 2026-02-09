@@ -107,14 +107,14 @@ permalink: /privacy-policy/
 - **Backward Compatibility:** We'll never start collecting data without your explicit consent
 
 ### Contact for Privacy Questions
-- **Email:** privacy@margostudios.com
+- **Email:** help@margostudios.com
 - **Website:** https://margostudios.com/privacy
 - **Response Time:** We'll respond within 7 business days
 
 ## 9. Contact Information
 
 ### Privacy Inquiries
-- **Primary Contact:** privacy@margostudios.com
+- **Primary Contact:** help@margostudios.com
 - **Website:** https://margostudios.com
 - **App Support:** Through the app's help/support features
 

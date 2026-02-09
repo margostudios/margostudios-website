@@ -34,8 +34,8 @@ The App is intended for users who are at least 18 years of age. By using the App
 - We use Adapty for subscription processing and management
 
 ### Subscription Terms
-- Free Plan: Limited to 3 trips with basic features
-- Premium Plan: $9.99/month or $49/year for unlimited trips and advanced features
+- Free Plan: Limited to 2 trips with basic features
+- Premium Plan: $9.99/month or $59/year for unlimited trips and advanced features
 - Subscriptions are managed through Apple and Google's respective payment systems
 - Refunds are handled according to Apple App Store and Google Play Store policies
 
@@ -127,7 +127,7 @@ Margo Studios reserves the right to modify these Terms at any time. Changes will
 ## 11. Contact Information
 
 For questions about these Terms, please contact:
-- **Email:** legal@margostudios.com
+- **Email:** help@margostudios.com
 - **Website:** https://margostudios.com
 
 ## 12. Severability

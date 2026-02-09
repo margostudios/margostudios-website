@@ -67,12 +67,12 @@ Family Travel by Margo Studios is the ultimate trip planning companion designed 
 ### SUBSCRIPTION OPTIONS:
 
 **Free Plan:**
-- Up to 3 trips
+- Up to 2 trips
 - Smart packing lists
 - Task reminders
 - Day bag generation
 
-**Premium Plan ($9.99/month or $49/year):**
+**Premium Plan ($9.99/month or $59/year):**
 - Unlimited trips
 - Document storage for all travel documents
 - Family profiles for travel rewards and passport management
@@ -85,7 +85,7 @@ Download Family Travel today and transform your family trip planning from chaoti
 
 ---
 
-**Questions or feedback?** Contact us at support@margostudios.com
+**Questions or feedback?** Contact us at help@margostudios.com
 
 **Privacy Policy:** https://margostudios.com/privacy-policy
 
