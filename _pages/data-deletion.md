@@ -31,7 +31,7 @@ This will permanently remove all locally stored data.
 
 ### 2. Subscription and Purchase Data
 
-We use **Adapty** and **Google Play** to manage subscriptions and in-app purchases.  
+We use **Adapty** and **Google Play/Apple AppStore** to manage subscriptions and in-app purchases.  
 These services may store:
 
 - Email address  
@@ -42,7 +42,7 @@ To request deletion of this data, please contact us:
 
 **Email:** help@margostudios.com  
 
-We will process your request within a reasonable timeframe.
+We will process your request within a reasonable timeframe and will remove from **Adapty**.
 
 ---
 
