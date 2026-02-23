@@ -18,7 +18,6 @@ wide: true
       <li>Day bag generation</li>
       <li>Reminders on tasks</li>
     </ul>
-    <a href="https://apps.apple.com/app/family-travel/id123456789" class="btn btn-outline">Get Started</a>
   </div>
   <div class="pricing-card featured">
     <h3>Premium</h3>
@@ -32,6 +31,13 @@ wide: true
       <li>Priority support</li>
       <li>Everything in Free</li>
     </ul>
-    <a href="https://apps.apple.com/app/family-travel/id123456789" class="btn btn-primary">Start Free Trial</a>
+  </div>
+</div>
+
+<div class="app-download">
+  <p>Start free — upgrade anytime inside the app.</p>
+  <div class="app-download-buttons">
+    <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
+    <span class="btn btn-disabled">Android — Coming Soon</span>
   </div>
 </div>
