@@ -5,7 +5,8 @@ permalink: /privacy-policy/
 ---
 # Privacy Policy
 
-**Effective Date:** February 23, 2026
+**Effective Date:** February 5, 2026 
+**Last Updated:** February 23, 2026
 
 ---
 
