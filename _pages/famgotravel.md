@@ -51,6 +51,10 @@ wide: true
 
 <div class="cta-section">
   <h2>Ready to simplify your next trip?</h2>
-  <p>Start planning for free — upgrade when it makes sense.</p>
-  <a href="/pricing/" class="btn btn-primary">See Pricing</a>
+  <p>Start free — upgrade anytime inside the app.</p>
+  <div class="app-download-buttons">
+    <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
+    <span class="btn btn-disabled">Android — Coming Soon</span>
+  </div>
+  <a href="/pricing/" class="pricing-link">View pricing</a>
 </div>
