@@ -19,10 +19,6 @@ wide: true
       <li>Family members (name &amp; age) — added during onboarding</li>
       <li>Packing list</li>
     </ul>
-    <div class="app-download-buttons" style="margin-top: 1.5rem;">
-      <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-secondary">Download on iOS</a>
-      <span class="btn btn-disabled">Android — Coming Soon</span>
-    </div>
   </div>
   <div class="pricing-card featured">
     <h3>Premium</h3>
@@ -43,6 +39,6 @@ wide: true
   <p>Start free — upgrade anytime inside the app.</p>
   <div class="app-download-buttons">
     <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
-    <span class="btn btn-disabled">Android — Coming Soon</span>
+    <a href="https://play.google.com/store/apps/details?id=com.famgo.trip" class="btn btn-primary">Download on Android</a>
   </div>
 </div>
