@@ -574,4 +574,30 @@ a:hover {
   html {
     font-size: 18px;
   }
+
+  .nav-container {
+    height: 52px;
+  }
+
+  .hero {
+    padding: 48px 24px;
+  }
+
+  .feature-section {
+    padding: 40px 0;
+  }
+
+  .cta-section {
+    padding: 48px 24px;
+    margin-top: 40px;
+  }
+
+  .pricing-grid {
+    margin: 40px auto 48px;
+  }
+
+  .site-footer {
+    margin-top: 56px;
+    padding: 40px 24px 24px;
+  }
 }
