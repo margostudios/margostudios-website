@@ -13,23 +13,28 @@ wide: true
     <div class="price">$0</div>
     <div class="price-period">Free forever</div>
     <ul>
-      <li>Up to 2 trips</li>
-      <li>Smart packing lists</li>
-      <li>Day bag generation</li>
-      <li>Reminders on tasks</li>
+      <li>1 trip</li>
+      <li>Up to 3 documents (photos &amp; PDFs)</li>
+      <li>Unlimited text notes</li>
+      <li>Family members (name &amp; age) — added during onboarding</li>
+      <li>Packing list</li>
     </ul>
+    <div class="app-download-buttons" style="margin-top: 1.5rem;">
+      <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-secondary">Download on iOS</a>
+      <span class="btn btn-disabled">Android — Coming Soon</span>
+    </div>
   </div>
   <div class="pricing-card featured">
     <h3>Premium</h3>
     <div class="price">$9.99</div>
     <div class="price-period">per month<br>or $59/year</div>
+    <p style="font-size: 0.85rem; margin-bottom: 0.75rem; opacity: 0.85;">Everything in Free, plus:</p>
     <ul>
       <li>Unlimited trips</li>
-      <li>Document storage - keep all travel documents in one place</li>
-      <li>Family profiles for all travel rewards and managing passport expiration</li>
-      <li>Advanced packing templates</li>
-      <li>Priority support</li>
-      <li>Everything in Free</li>
+      <li>Unlimited documents</li>
+      <li>Full family profiles — passport expiry, notes &amp; reward programs</li>
+      <li>"Don't Forget" section — category-based suggestions in Plan tab</li>
+      <li>Shopping list — separate tab in enhanced packing screen</li>
     </ul>
   </div>
 </div>
