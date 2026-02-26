@@ -7,6 +7,11 @@ hero: true
 wide: true
 ---
 
+<div class="app-download-buttons" style="margin-bottom:2rem;">
+  <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
+  <a href="https://play.google.com/store/apps/details?id=com.famgo.trip" class="btn btn-primary">Download on Android</a>
+</div>
+
 <div class="feature-section">
   <h2>Stay organized</h2>
   <div class="feature-grid">
