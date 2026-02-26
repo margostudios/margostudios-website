@@ -5,12 +5,9 @@ subtitle: "Your complete trip planning companion — designed to reduce travel s
 permalink: /famgotravel/
 hero: true
 wide: true
+download_ios: "https://apps.apple.com/us/app/famgo/id6758233680"
+download_android: "https://play.google.com/store/apps/details?id=com.famgo.trip"
 ---
-
-<div class="app-download-buttons" style="margin-bottom:2rem;">
-  <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
-  <a href="https://play.google.com/store/apps/details?id=com.famgo.trip" class="btn btn-primary">Download on Android</a>
-</div>
 
 <div class="feature-section">
   <h2>Stay organized</h2>

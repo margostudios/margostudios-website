@@ -152,6 +152,34 @@ a:hover {
   line-height: 1.6;
 }
 
+.hero-cta {
+  margin-top: 28px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn-hero {
+  background: #fff;
+  color: var(--color-accent);
+  border: 2px solid rgba(42, 125, 140, 0.15);
+  padding: 11px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  display: inline-block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.btn-hero:hover {
+  color: var(--color-accent-hover);
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.13);
+}
+
 /* ========================================
    Page Title (non-hero pages)
    ======================================== */

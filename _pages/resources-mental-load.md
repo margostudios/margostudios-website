@@ -271,7 +271,7 @@ Stop reinventing the wheel. Stop keeping it all in your head. Build your second 
   <p>Download FamGo Travel free and start your next trip with less stress.</p>
   <div class="app-download-buttons">
     <a href="https://apps.apple.com/us/app/famgo/id6758233680" class="btn btn-primary">Download on iOS</a>
-    <span class="btn btn-primary" style="opacity:0.6;cursor:default;">Android coming soon</span>
+    <a href="https://play.google.com/store/apps/details?id=com.famgo.trip" class="btn btn-primary">Download on Android</a>
   </div>
 </div>
 
