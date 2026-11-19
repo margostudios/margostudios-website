@@ -1,20 +1,20 @@
 ---
 layout: page
-title: "1st Then Terms of Service"
+title: "1, 2, Go Terms of Service"
 permalink: /1st-then/terms/
 ---
-# 1st Then Terms of Service
+# 1, 2, Go Terms of Service
 
 **Effective Date:** November 17, 2026
 **Last Updated:** November 17, 2026
 
-These Terms of Service ("Terms") are an agreement between you and Margo Studios ("we," "us," "our") about your use of the 1st Then mobile app (the "App"). By downloading or using the App, you agree to these Terms. If you do not agree, please do not use the App.
+These Terms of Service ("Terms") are an agreement between you and Margo Studios ("we," "us," "our") about your use of the 1, 2, Go mobile app (the "App"). By downloading or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 ---
 
 ## 1. What the App Does
 
-1st Then is a visual routine app. Parents, caregivers, therapists, and teachers build routines made of pictures, and children tap the pictures to check off steps. The App also offers optional timers and lets you add your own photos.
+1, 2, Go is a visual routine app. Parents, caregivers, therapists, and teachers build routines made of pictures, and children tap the pictures to check off steps. The App also offers optional timers and lets you add your own photos.
 
 The App works on your device and does not connect to the internet. See our [Privacy Policy](/1st-then/privacy/) for details.
 
@@ -42,7 +42,7 @@ You agree not to:
 
 ## 4. Not Medical, Therapy, or Safety Advice
 
-1st Then is a tool for organizing daily routines. **It does not provide medical, therapeutic, educational, or professional advice, and it is not a medical device.**
+1, 2, Go is a tool for organizing daily routines. **It does not provide medical, therapeutic, educational, or professional advice, and it is not a medical device.**
 
 - Using the App does not replace the guidance of a doctor, therapist, teacher, or other professional who knows your child.
 - **Do not rely on the App for anything safety critical.** This includes taking medication, feeding, supervision, or emergencies. A picture or timer in the App is a visual cue only. It is not a reminder system, an alarm, or a safety device, and it may not work if your device is turned off, muted, out of battery, or has the App closed.
