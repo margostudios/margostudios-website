@@ -1,22 +1,22 @@
 ---
 layout: page
-title: "1st Then Privacy Policy"
+title: "1, 2, Go Privacy Policy"
 permalink: /1st-then/privacy/
 ---
-# 1st Then Privacy Policy
+# 1, 2, Go Privacy Policy
 
 **Effective Date:** November 17, 2026
 **Last Updated:** November 17, 2026
 
-1st Then is a visual routine app made by Margo Studios. Parents build routines with pictures, and children tap the pictures to check off steps. This policy explains what the app does with information.
+1, 2, Go is a visual routine app made by Margo Studios. Parents build routines with pictures, and children tap the pictures to check off steps. This policy explains what the app does with information.
 
-**The short version: 1st Then does not collect your information. Everything you make in the app stays on your device.**
+**The short version: 1, 2, Go does not collect your information. Everything you make in the app stays on your device.**
 
 ---
 
 ## 1. Information We Collect
 
-**We do not collect any information.** We do not receive, store, or have access to anything you enter or create in 1st Then.
+**We do not collect any information.** We do not receive, store, or have access to anything you enter or create in 1, 2, Go.
 
 - No account, sign-up, or login is needed.
 - The app does not ask for your name, email address, phone number, location, or any other personal details.
@@ -52,7 +52,7 @@ You can say no to the camera permission and still use the whole app with the bui
 
 ## 4. Children's Privacy
 
-1st Then is designed for families, including children with disabilities. Because the app collects no information from anyone, it collects no information from children. Children's mode has no text boxes, no links to outside websites, no ads, and no purchases.
+1, 2, Go is designed for families, including children with disabilities. Because the app collects no information from anyone, it collects no information from children. Children's mode has no text boxes, no links to outside websites, no ads, and no purchases.
 
 ---
 
@@ -64,7 +64,7 @@ We do not sell, rent, share, or disclose your information, because we do not hav
 
 ## 6. Backups
 
-Your phone's own backup service (such as Android backup or iCloud backup) is controlled by your device settings and your account with Google or Apple, not by us. On Android, 1st Then turns off app backup, so its data is not included in Android's automatic backups. On iPhone and iPad, a device backup that you have turned on may include the app's data. Apple's and Google's privacy policies describe how they handle backups.
+Your phone's own backup service (such as Android backup or iCloud backup) is controlled by your device settings and your account with Google or Apple, not by us. On Android, 1, 2, Go turns off app backup, so its data is not included in Android's automatic backups. On iPhone and iPad, a device backup that you have turned on may include the app's data. Apple's and Google's privacy policies describe how they handle backups.
 
 ---
 
